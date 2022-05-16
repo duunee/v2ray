@@ -1,7 +1,7 @@
 			{
 				"type": "field",
 				"domain": [
-					"360.cn",
+					"domain:gfsoso.99lb.net",
 				],
 				"outboundTag": "blocked"
 			}
